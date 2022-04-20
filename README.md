@@ -2,10 +2,10 @@
 Proyecto que utiliza Boto3, Pandas, Python scripting para la limpieza e inserción de datos en SQL, y SQL para hacer queries/ddls.
 
 TECNOLOGIAS:
-Python
-Python p/analisis ---> Pandas
-Amazon S3
-SQL
+Python<br>
+Python p/analisis ---> Pandas<br>
+Amazon S3<br>
+SQL<br>
 
 ## 🚀 Lista de mejoras
 La comunidad **open-source** puede mantener este proyecto como desee. Algunas features que se podrían agregar:
