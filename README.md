@@ -1,7 +1,7 @@
 # AmazonS3_csvfiles_analysis-etl
 Proyecto que utiliza Boto3, Pandas, Python scripting para la limpieza e inserción de datos en SQL, y SQL para hacer queries/ddls.
 
-TECNOLOGIAS:
+TECNOLOGIAS:<br>
 Python<br>
 Python p/analisis ---> Pandas<br>
 Amazon S3<br>
